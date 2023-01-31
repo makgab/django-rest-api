@@ -8,13 +8,13 @@ https://www.django-rest-framework.org/tutorial/quickstart/
 
 
 
-* Requirements:
+## Requirements:
 
  - Django 4.x
  - django-rest-framework
 
 
-* Install:
+## Install:
 
  - mkdir django-rest-api
  - cd django-rest-api
