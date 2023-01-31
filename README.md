@@ -2,7 +2,9 @@
 
 
 https://www.pluralsight.com/guides/develop-a-microservice-api-with-django-rest-framework-(drf)
+
 https://www.django-rest-framework.org/tutorial/quickstart/
+
 
 
 
